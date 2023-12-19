@@ -45,8 +45,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:R.Subhashri
+### Register Number:23012776
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
